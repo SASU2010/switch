@@ -1,0 +1,15 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;      
+}
+
+h1{
+color: rgb(23, 192, 23);
+}
+
+input[type="button"]{
+    background: blue;
+    color: beige;
+    border-radius: 55%;
+    font-size: large;
+    padding: 1%;
+}
